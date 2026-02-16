@@ -1833,6 +1833,7 @@ input, select, textarea {
 				transition: opacity .25s ease-in-out;
 				width: 5.5em;
 				margin-left: -2.75em;
+				font-family: 'Source Sans Pro', sans-serif;
 			}
 
 				#nav a span:after {
