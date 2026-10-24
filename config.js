@@ -23,6 +23,14 @@ const USER_CONFIG = {
   publications: [
     {
       year:     2026,
+      title:    "In Situ and Operando Spectroscopy for CO2 Capture and Utilization Technologies",
+      authors:  "Abbas Beheshti Askari; Abdullah J. Al Abdulghani; Daniel Duijnstee; Ken-ichi Shimizu; Kaewta Jetsrisuparb; Jesper T. N. Knijnenburg; Nobutaka Maeda",
+      venue:    "Chemistry – A European Journal",
+      links:    {URL: "https://doi.org/10.1002/chem.71803"},
+      abstractImg: "assets/graphicalAbstracts/23.png",
+    },
+    {
+      year:     2026,
       title:    "High-Temperature EXAFS Despite Debye–Waller Damping by Modulation-Excitation XAS",
       authors:  "Daniel Duijnstee; Keiko Kojima; Takeharu Sugiyama; Abbas Beheshti Askari; Abdullah J. Al Abdulghani; Ken-Ichi Shimizu; Nobutaka Maeda",
       venue:    "The Journal of Physical Chemistry C",
